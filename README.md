@@ -71,7 +71,7 @@ Javaを軸にバックエンドを学びながら、生成AIを使ったアプ�
 ## 📫 Contact
 
 - ✉️ jmoncoski@outlook.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/[your-url])
+- 💼 [LinkedIn](https://www.linkedin.com/in/julian-moncoski)
 
 **インターンシップ、ジュニア職、ビザサポートのある募集を探しています。お気軽にご連絡ください。**
 どうぞよろしくお願いいたします。
