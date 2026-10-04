@@ -19,6 +19,10 @@ Javaを軸にバックエンドを学びながら、生成AIを使ったアプ�
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -27,21 +31,23 @@ Javaを軸にバックエンドを学びながら、生成AIを使ったアプ�
 
 | 分野 | 内容 |
 | --- | --- |
-| Backend | Java, Database Design, SDLC |
+| Backend | Java, Python, MySQL, Database Design, SDLC |
 | AI | Gemini API, 画像認識API, Prompt Engineering |
-| Frontend / Design | HTML/CSS, Figma, Photoshop |
+| Frontend / Design | HTML/CSS, JavaScript, Figma, Photoshop |
+| Environment | Linux |
 | 学習中 | Cloud, Cybersecurity, AI Analytics |
 
 ---
 
 ## 📦 Projects
 
-| プロジェクト | 解決したい課題 | 使用技術 | リンク |
-| --- | --- | --- | --- |
-| **BemAqui** | 気持ちが落ち着かないとき、いつでも使える感情サポートを届ける | Gemini API, [スタックを追記] | [Repo](https://github.com/[user]/[bemaqui]) |
-| **Portal Crivo** | ディープフェイクやAI生成画像を、誰でもアップロードだけで確認できるようにする | 画像認識API, [スタックを追記] | [Repo](https://github.com/[user]/[portal-crivo]) |
+| プロジェクト | 解決したい課題 | 使用技術 |
+| --- | --- | --- |
+| **BemAqui** | 気持ちが落ち着かないとき、いつでも使える感情サポートを届ける | Gemini API, [スタックを追記] |
+| **Portal Crivo** | ディープフェイクやAI生成画像を、誰でもアップロードだけで確認できるようにする | 画像認識API, [スタックを追記] |
 
-> 各リポジトリの README には、**目的・使い方・工夫した点・今後の改善** を英語で記載しています。
+> この2つは **卒業研究（TCC）として取り組んだ主要プロジェクト** です。公開リポジトリはありませんが、設計や実装について詳しくお話しできます。
+> 学業では企業連携の課題など、新しいプロジェクトに継続的に取り組んでおり、**成果が整い次第このページに追加していきます。**
 
 ---
 
