@@ -85,5 +85,5 @@ Javaを軸にバックエンドを学びながら、生成AIや機械学習を�
 ---
 
 <p align="center">
-  <img src="./footer.svg" alt="ありがとうございます - Thank you for visiting" width="100%" />
+<img src="footer-tokyo-cybercore.svg" width="100%" />
 </p>
