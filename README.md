@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>新しさを受け入れ、違いを受け入れる。</b><br>
-  <sub>EMBRACE THE NEW, EMBRACE THE DIFFERENT.</sub>
+  <sub>EMBRACE THE NEW, EMBRACE THE WONDER.</sub>
 </p>
 
 <p align="center">
