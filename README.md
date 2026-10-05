@@ -1,7 +1,7 @@
 <h1 align="center">Julian Moncoski</h1>
 
 <p align="center">
-  <b>新しさを受け入れ、違いを受け入れる。</b><br>
+  <b>新しさを受け入れ、驚嘆を受け入れる。</b><br>
   <sub>EMBRACE THE NEW, EMBRACE THE WONDER.</sub>
 </p>
 
@@ -117,6 +117,3 @@ ETECでは、昼のインターネット技術科と並行して、夜間のシ�
 
 ---
 
-<p align="center">
-<img src="banner-tokyo-cybercore.svg" width="100%" />
-</p>
