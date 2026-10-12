@@ -34,30 +34,30 @@ ETECでは、昼のインターネット技術科と並行して、夜間のシ�
 ### 【技術】
 
 **Core**<br>
-![Java](https://img.shields.io/badge/-Java-ff5fb8?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-ff5fb8?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-ff5fb8?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ff5fb8?style=for-the-badge&logo=javascript&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-ff5fb8?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-ff5fb8?style=for-the-badge&logo=firebase&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-e60012?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-e60012?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-e60012?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-e60012?style=for-the-badge&logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-e60012?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-e60012?style=for-the-badge&logo=firebase&logoColor=white)
 
 **AI**<br>
-![Gemini API](https://img.shields.io/badge/-Gemini_API-ff5fb8?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-ff5fb8?style=for-the-badge)
-![GAN](https://img.shields.io/badge/-GAN-ff5fb8?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/-Gemini_API-e60012?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-e60012?style=for-the-badge)
+![GAN](https://img.shields.io/badge/-GAN-e60012?style=for-the-badge)
 
 **Frontend / Design**<br>
-![HTML5](https://img.shields.io/badge/-HTML5-ff5fb8?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-ff5fb8?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-ff5fb8?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-ff5fb8?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-e60012?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-e60012?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-e60012?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-e60012?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 **Environment**<br>
-![Linux](https://img.shields.io/badge/-Linux-ff5fb8?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-e60012?style=for-the-badge&logo=linux&logoColor=white)
 
 **学習中**<br>
-![Cloud](https://img.shields.io/badge/-Cloud-2a0f3d?style=for-the-badge&labelColor=2a0f3d&color=2a0f3d)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-2a0f3d?style=for-the-badge&labelColor=2a0f3d&color=2a0f3d)
+![Cloud](https://img.shields.io/badge/-Cloud-3d0a0f?style=for-the-badge&labelColor=3d0a0f&color=3d0a0f)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-3d0a0f?style=for-the-badge&labelColor=3d0a0f&color=3d0a0f)
 
 ---
 
@@ -116,4 +116,3 @@ ETECでは、昼のインターネット技術科と並行して、夜間のシ�
 どうぞよろしくお願いいたします。
 
 ---
-
