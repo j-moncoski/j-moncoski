@@ -108,7 +108,7 @@ ETECでは、昼のインターネット技術科と並行して、夜間のシ�
 ご縁をいただければ幸いです。どうぞよろしくお願いいたします。
 
 <p align="center">
-  <img src="./banner-tokyo-cybercore.svg" alt="ありがとうございます - Thank you for visiting" width="100%" />
+  <img src="./tokyo-night-footer.svg" alt="ありがとうございます - Thank you for visiting" width="100%" />
 </p>
 
 
